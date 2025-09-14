@@ -20,3 +20,6 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+#Ignore insiders AI rules
+.github/instructions/codacy.instructions.md
