@@ -1,3 +1,11 @@
+# mT5 Pashto
+
+Pashto-focused mT5 experiments and fine-tuning work developed in ZamAI Labs.
+
+- Website: https://zamai.dev
+- Labs: https://github.com/ZamAI-ORG
+
+
 # ZamAI-MT5-Pashto-
 
 Offline-friendly workspace with a local copy of `ZamAI-mT5-Pashto` for inference.
